@@ -1,0 +1,12 @@
+C:\Users\mparienti\source\repos\SplititActorManager\src\Dtos\Travel.Dto.Actor\bin\Debug\net6.0\Travel.Dto.Actor.deps.json
+C:\Users\mparienti\source\repos\SplititActorManager\src\Dtos\Travel.Dto.Actor\bin\Debug\net6.0\Travel.Dto.Actor.dll
+C:\Users\mparienti\source\repos\SplititActorManager\src\Dtos\Travel.Dto.Actor\bin\Debug\net6.0\Travel.Dto.Actor.pdb
+C:\Users\mparienti\source\repos\SplititActorManager\src\Dtos\Travel.Dto.Actor\obj\Debug\net6.0\Travel.Dto.Actor.csproj.AssemblyReference.cache
+C:\Users\mparienti\source\repos\SplititActorManager\src\Dtos\Travel.Dto.Actor\obj\Debug\net6.0\Travel.Dto.Actor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mparienti\source\repos\SplititActorManager\src\Dtos\Travel.Dto.Actor\obj\Debug\net6.0\Travel.Dto.Actor.AssemblyInfoInputs.cache
+C:\Users\mparienti\source\repos\SplititActorManager\src\Dtos\Travel.Dto.Actor\obj\Debug\net6.0\Travel.Dto.Actor.AssemblyInfo.cs
+C:\Users\mparienti\source\repos\SplititActorManager\src\Dtos\Travel.Dto.Actor\obj\Debug\net6.0\Travel.Dto.Actor.csproj.CoreCompileInputs.cache
+C:\Users\mparienti\source\repos\SplititActorManager\src\Dtos\Travel.Dto.Actor\obj\Debug\net6.0\Travel.Dto.Actor.dll
+C:\Users\mparienti\source\repos\SplititActorManager\src\Dtos\Travel.Dto.Actor\obj\Debug\net6.0\refint\Travel.Dto.Actor.dll
+C:\Users\mparienti\source\repos\SplititActorManager\src\Dtos\Travel.Dto.Actor\obj\Debug\net6.0\Travel.Dto.Actor.pdb
+C:\Users\mparienti\source\repos\SplititActorManager\src\Dtos\Travel.Dto.Actor\obj\Debug\net6.0\ref\Travel.Dto.Actor.dll

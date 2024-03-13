@@ -1,0 +1,12 @@
+C:\Users\mparienti\source\repos\SplititActorManager\src\Data\SplititActor.Data.Actor\bin\Debug\net6.0\SplititActor.Data.Actor.deps.json
+C:\Users\mparienti\source\repos\SplititActorManager\src\Data\SplititActor.Data.Actor\bin\Debug\net6.0\SplititActor.Data.Actor.dll
+C:\Users\mparienti\source\repos\SplititActorManager\src\Data\SplititActor.Data.Actor\bin\Debug\net6.0\SplititActor.Data.Actor.pdb
+C:\Users\mparienti\source\repos\SplititActorManager\src\Data\SplititActor.Data.Actor\obj\Debug\net6.0\SplititActor.Data.Actor.csproj.AssemblyReference.cache
+C:\Users\mparienti\source\repos\SplititActorManager\src\Data\SplititActor.Data.Actor\obj\Debug\net6.0\SplititActor.Data.Actor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mparienti\source\repos\SplititActorManager\src\Data\SplititActor.Data.Actor\obj\Debug\net6.0\SplititActor.Data.Actor.AssemblyInfoInputs.cache
+C:\Users\mparienti\source\repos\SplititActorManager\src\Data\SplititActor.Data.Actor\obj\Debug\net6.0\SplititActor.Data.Actor.AssemblyInfo.cs
+C:\Users\mparienti\source\repos\SplititActorManager\src\Data\SplititActor.Data.Actor\obj\Debug\net6.0\SplititActor.Data.Actor.csproj.CoreCompileInputs.cache
+C:\Users\mparienti\source\repos\SplititActorManager\src\Data\SplititActor.Data.Actor\obj\Debug\net6.0\SplititActor.Data.Actor.dll
+C:\Users\mparienti\source\repos\SplititActorManager\src\Data\SplititActor.Data.Actor\obj\Debug\net6.0\refint\SplititActor.Data.Actor.dll
+C:\Users\mparienti\source\repos\SplititActorManager\src\Data\SplititActor.Data.Actor\obj\Debug\net6.0\SplititActor.Data.Actor.pdb
+C:\Users\mparienti\source\repos\SplititActorManager\src\Data\SplititActor.Data.Actor\obj\Debug\net6.0\ref\SplititActor.Data.Actor.dll

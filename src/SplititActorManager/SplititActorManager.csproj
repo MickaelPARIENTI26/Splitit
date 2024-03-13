@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Dependencies\SplititActor.Common.Configurations\SplititActor.Configurations.csproj" />
+    <ProjectReference Include="..\Services\SplititActor.Scrap.Service\SplititActor.Service.Scrap.csproj" />
+    <ProjectReference Include="..\Services\SplititActor.Service.Actor\SplititActor.Service.Actor.csproj" />
+  </ItemGroup>
+
+</Project>

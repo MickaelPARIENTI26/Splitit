@@ -1,0 +1,12 @@
+C:\Users\mparienti\source\repos\SplititActorManager\SplititActor.Scrap.Service\bin\Debug\net6.0\SplititActor.Scrap.Service.deps.json
+C:\Users\mparienti\source\repos\SplititActorManager\SplititActor.Scrap.Service\bin\Debug\net6.0\SplititActor.Scrap.Service.dll
+C:\Users\mparienti\source\repos\SplititActorManager\SplititActor.Scrap.Service\bin\Debug\net6.0\SplititActor.Scrap.Service.pdb
+C:\Users\mparienti\source\repos\SplititActorManager\SplititActor.Scrap.Service\obj\Debug\net6.0\SplititActor.Scrap.Service.csproj.AssemblyReference.cache
+C:\Users\mparienti\source\repos\SplititActorManager\SplititActor.Scrap.Service\obj\Debug\net6.0\SplititActor.Scrap.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mparienti\source\repos\SplititActorManager\SplititActor.Scrap.Service\obj\Debug\net6.0\SplititActor.Scrap.Service.AssemblyInfoInputs.cache
+C:\Users\mparienti\source\repos\SplititActorManager\SplititActor.Scrap.Service\obj\Debug\net6.0\SplititActor.Scrap.Service.AssemblyInfo.cs
+C:\Users\mparienti\source\repos\SplititActorManager\SplititActor.Scrap.Service\obj\Debug\net6.0\SplititActor.Scrap.Service.csproj.CoreCompileInputs.cache
+C:\Users\mparienti\source\repos\SplititActorManager\SplititActor.Scrap.Service\obj\Debug\net6.0\SplititActor.Scrap.Service.dll
+C:\Users\mparienti\source\repos\SplititActorManager\SplititActor.Scrap.Service\obj\Debug\net6.0\refint\SplititActor.Scrap.Service.dll
+C:\Users\mparienti\source\repos\SplititActorManager\SplititActor.Scrap.Service\obj\Debug\net6.0\SplititActor.Scrap.Service.pdb
+C:\Users\mparienti\source\repos\SplititActorManager\SplititActor.Scrap.Service\obj\Debug\net6.0\ref\SplititActor.Scrap.Service.dll

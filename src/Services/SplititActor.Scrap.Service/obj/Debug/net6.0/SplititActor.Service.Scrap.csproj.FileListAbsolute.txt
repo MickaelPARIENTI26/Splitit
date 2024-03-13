@@ -1,0 +1,17 @@
+C:\Users\mparienti\source\repos\SplititActorManager\src\Services\SplititActor.Scrap.Service\bin\Debug\net6.0\SplititActor.Service.Scrap.deps.json
+C:\Users\mparienti\source\repos\SplititActorManager\src\Services\SplititActor.Scrap.Service\bin\Debug\net6.0\SplititActor.Service.Scrap.dll
+C:\Users\mparienti\source\repos\SplititActorManager\src\Services\SplititActor.Scrap.Service\bin\Debug\net6.0\SplititActor.Service.Scrap.pdb
+C:\Users\mparienti\source\repos\SplititActorManager\src\Services\SplititActor.Scrap.Service\obj\Debug\net6.0\SplititActor.Service.Scrap.csproj.AssemblyReference.cache
+C:\Users\mparienti\source\repos\SplititActorManager\src\Services\SplititActor.Scrap.Service\obj\Debug\net6.0\SplititActor.Service.Scrap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mparienti\source\repos\SplititActorManager\src\Services\SplititActor.Scrap.Service\obj\Debug\net6.0\SplititActor.Service.Scrap.AssemblyInfoInputs.cache
+C:\Users\mparienti\source\repos\SplititActorManager\src\Services\SplititActor.Scrap.Service\obj\Debug\net6.0\SplititActor.Service.Scrap.AssemblyInfo.cs
+C:\Users\mparienti\source\repos\SplititActorManager\src\Services\SplititActor.Scrap.Service\obj\Debug\net6.0\SplititActor.Service.Scrap.csproj.CoreCompileInputs.cache
+C:\Users\mparienti\source\repos\SplititActorManager\src\Services\SplititActor.Scrap.Service\obj\Debug\net6.0\SplititActor.Service.Scrap.csproj.CopyComplete
+C:\Users\mparienti\source\repos\SplititActorManager\src\Services\SplititActor.Scrap.Service\obj\Debug\net6.0\SplititActor.Service.Scrap.dll
+C:\Users\mparienti\source\repos\SplititActorManager\src\Services\SplititActor.Scrap.Service\obj\Debug\net6.0\refint\SplititActor.Service.Scrap.dll
+C:\Users\mparienti\source\repos\SplititActorManager\src\Services\SplititActor.Scrap.Service\obj\Debug\net6.0\SplititActor.Service.Scrap.pdb
+C:\Users\mparienti\source\repos\SplititActorManager\src\Services\SplititActor.Scrap.Service\obj\Debug\net6.0\ref\SplititActor.Service.Scrap.dll
+C:\Users\mparienti\source\repos\SplititActorManager\src\Services\SplititActor.Scrap.Service\bin\Debug\net6.0\SplititActor.Data.Actor.dll
+C:\Users\mparienti\source\repos\SplititActorManager\src\Services\SplititActor.Scrap.Service\bin\Debug\net6.0\SplititActor.Data.Actor.pdb
+C:\Users\mparienti\source\repos\SplititActorManager\src\Services\SplititActor.Scrap.Service\bin\Debug\net6.0\SplititActor.Configurations.dll
+C:\Users\mparienti\source\repos\SplititActorManager\src\Services\SplititActor.Scrap.Service\bin\Debug\net6.0\SplititActor.Configurations.pdb
